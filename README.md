@@ -2,4 +2,4 @@
 
 I want to make an attack pattern of a top down shooter boss.
 
-[GitHub Pages link](https://aallbrig.github.io/boss-attack-pattern-micro/) ("QA" environment)
+[GitHub Pages link](https://aallbrig.github.io/boss-attack-pattern-micro/WebGL/index.html) ("QA" environment)
